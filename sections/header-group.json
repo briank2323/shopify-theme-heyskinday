@@ -29,7 +29,7 @@
         "color_scheme": "badge-sale",
         "show_announcement": true,
         "homepage_only": false,
-        "show_close": true,
+        "show_close": false,
         "show_divider": false,
         "show_nav": true,
         "autorotate": true,
