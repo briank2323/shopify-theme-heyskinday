@@ -64,6 +64,7 @@
     "wishlist_page": "wishlist",
     "product_compare_page": "product-compare",
     "show_cookie_consent": false,
+    "cookie_design_mode": false,
     "cookie_consent_placement": "bottom-left",
     "cookie_consent_theme": "white",
     "gm_api": "AIzaSyAsk6G0BtpuiujLMuRJH0eTxbLUs02a3c8",
