@@ -473,6 +473,7 @@
         "template--15977492021425__7731d6df-9d53-4c34-9efb-98fac2fa365d-16769649642102c2d8-0",
         "template--15977492021425__7731d6df-9d53-4c34-9efb-98fac2fa365d-16769649642102c2d8-2"
       ],
+      "disabled": true,
       "custom_css": [
         ".sf__btn {margin-top: 24px; padding-left: 25px; padding-right: 25px; border-color: #dadada;}"
       ],
@@ -545,6 +546,7 @@
       "block_order": [
         "65a3de0e-b3e4-4c97-b3e5-2f2f03d92449"
       ],
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h3",
