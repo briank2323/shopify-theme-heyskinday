@@ -106,6 +106,76 @@
         "custom_class": ""
       }
     },
+    "162251092958fcda7c": {
+      "type": "product-tabs",
+      "blocks": {
+        "tab_DbdwVL": {
+          "type": "tab",
+          "settings": {
+            "title": "Dry Skin Days",
+            "collection": "round-lab"
+          }
+        },
+        "162251092958fcda7c-0": {
+          "type": "tab",
+          "settings": {
+            "title": "Sensitive Skin Days",
+            "collection": "fashion-2023"
+          }
+        },
+        "162251092958fcda7c-1": {
+          "type": "tab",
+          "settings": {
+            "title": "Oily Skin Days",
+            "collection": "fashion-2023-new-arrivals"
+          }
+        },
+        "tab_MtAiV6": {
+          "type": "tab",
+          "settings": {
+            "title": "",
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_DbdwVL",
+        "162251092958fcda7c-0",
+        "162251092958fcda7c-1",
+        "tab_MtAiV6"
+      ],
+      "settings": {
+        "heading": "Best Selling Skincare for",
+        "heading_size": "h3",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "color_scheme": "",
+        "tab_header": "select",
+        "limit": 8,
+        "show_button": true,
+        "button_type": "link",
+        "button_label": "Show All",
+        "button_style": "m-button--secondary",
+        "button_size": "",
+        "pcard_layout": "",
+        "pcard_image_ratio": "",
+        "show_vendor": false,
+        "items_per_row": 5,
+        "item_gap": 30,
+        "enable_slider": true,
+        "show_navigation": true,
+        "show_pagination": false,
+        "mobile_disable_slider": false,
+        "use_scroll_mobile": true,
+        "item_gap_mobile": 16,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": "sf-home__product-tab",
+        "animations": "inherit"
+      }
+    },
     "16225316461d1cff80": {
       "type": "collection-list",
       "blocks": {
@@ -209,60 +279,6 @@
         "padding_top": 0,
         "padding_bottom": 0,
         "custom_class": "sf-home__collection-list",
-        "animations": "inherit"
-      }
-    },
-    "162251092958fcda7c": {
-      "type": "product-tabs",
-      "blocks": {
-        "162251092958fcda7c-0": {
-          "type": "tab",
-          "settings": {
-            "title": "best sellers",
-            "collection": "fashion-2023"
-          }
-        },
-        "162251092958fcda7c-1": {
-          "type": "tab",
-          "settings": {
-            "title": "new arrivals",
-            "collection": "fashion-2023-new-arrivals"
-          }
-        }
-      },
-      "block_order": [
-        "162251092958fcda7c-0",
-        "162251092958fcda7c-1"
-      ],
-      "settings": {
-        "heading": "You are in",
-        "heading_size": "h3",
-        "subheading": "",
-        "description": "",
-        "header_alignment": "center",
-        "container": "container-fluid",
-        "color_scheme": "",
-        "tab_header": "select",
-        "limit": 10,
-        "show_button": true,
-        "button_type": "link",
-        "button_label": "Shop All Products",
-        "button_style": "m-button--secondary",
-        "button_size": "",
-        "pcard_layout": "",
-        "pcard_image_ratio": "",
-        "show_vendor": false,
-        "items_per_row": 5,
-        "item_gap": 30,
-        "enable_slider": false,
-        "show_navigation": false,
-        "show_pagination": false,
-        "mobile_disable_slider": false,
-        "use_scroll_mobile": true,
-        "item_gap_mobile": 16,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "custom_class": "sf-home__product-tab",
         "animations": "inherit"
       }
     },
@@ -668,8 +684,8 @@
     "c72959ad-9620-4e94-ae33-1bde908e9701",
     "1621243260e1af0c20",
     "scrolling_promotion_zCiWpg",
-    "16225316461d1cff80",
     "162251092958fcda7c",
+    "16225316461d1cff80",
     "7ea56e8d-5794-4708-8812-8ee9604a3a21",
     "7731d6df-9d53-4c34-9efb-98fac2fa365d",
     "721388d4-7859-4958-b320-c705800d31d9",
