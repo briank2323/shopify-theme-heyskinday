@@ -1,1 +1,158 @@
-{"type":"header","name":"Header","sections":{"annoucement":{"type":"annoucement","blocks":{"item_Un7gmA":{"type":"item","settings":{"message":"<span class=\"font-medium\" style=\"font-size: 14px;\">Receive 20% off on 1st Purchase - SIGN UP NOW<\/span>","message_link":""}},"item_J9RhnK":{"type":"item","settings":{"message":"Guaranteed Authenticity - Learn More","message_link":""}}},"block_order":["item_Un7gmA","item_J9RhnK"],"settings":{"container":"container","color_scheme":"badge-sale","show_announcement":true,"homepage_only":false,"show_close":true,"show_divider":false,"show_nav":true,"autorotate":true,"autorotate_speed":3}},"header":{"type":"header","blocks":{"5e153016-a9d7-46c9-a10e-30d16446793d":{"type":"topbar","settings":{"color_scheme":"","show_divider":true,"show_phone_numb":false,"show_email":false,"show_social_links":false,"show_stores_page":false,"show_currency_switcher":false,"show_country_selector":false,"show_language_switcher":false,"alert_message":"<span>Enable Push Notification |  <a class=\"sf__text-link  ml-1 underline\" href=\"#\">Flash Sales &  More<\/a><span><\/span><\/span>"}},"banner_Ma7qL6":{"type":"banner","settings":{"heading":"Shop Skincare","container":"inherit","banner_style":"outside","banner_link":"","banner_title":"New collection","banner_desc":"","banner_button_text":"Shop now"}},"product_list_HmhRWp":{"type":"product-list","settings":{"heading":"Trending","container":"inherit","stretch_width":false,"collection":"round-lab","limit":6,"columns":6}},"product_list_kwzKYU":{"type":"product-list","settings":{"heading":"New","container":"inherit","stretch_width":false,"collection":"moisturizers","limit":6,"columns":6}},"banner_MiGg47":{"type":"banner","settings":{"heading":"Sale & Offers","container":"inherit","banner_style":"outside","banner_image":"shopify:\/\/shop_images\/Screenshot_2.png","banner_link":"","banner_title":"New collection","banner_desc":"","banner_button_text":"Shop now"}}},"block_order":["5e153016-a9d7-46c9-a10e-30d16446793d","banner_Ma7qL6","product_list_HmhRWp","product_list_kwzKYU","banner_MiGg47"],"settings":{"color_scheme":"","color_scheme_menu":"","header_design":"logo-left-menu-center","container":"container-fluid","header_sticky":true,"transparent_on_top":false,"logo_text":"MINIMOG","logo":"shopify:\/\/shop_images\/lgoo2.png","logo_svg":"","logo_mobile_svg":"","logo_transparent_svg":"","logo_max_width":230,"sticky_logo_max_width":145,"mobile_logo_max_width":110,"main_menu":"main-menu","secondary_menu":"","mobile_menu":"","uppercase_parent_level":true,"show_menu_column_divider":true,"search":"show_full","show_account_icon":true,"show_cart_icon":true,"show_wishlist_icon":true,"show_compare_icon":false,"show_currency_switcher":false,"show_country_selector":false,"show_language_switcher":false,"mb_show_currency_switcher":false,"mb_show_country_selector":false,"mb_show_language_switcher":false}}},"order":["annoucement","header"]}
+{
+  "type": "header",
+  "name": "Header",
+  "sections": {
+    "annoucement": {
+      "type": "annoucement",
+      "blocks": {
+        "item_Un7gmA": {
+          "type": "item",
+          "settings": {
+            "message": "<span class=\"font-medium\" style=\"font-size: 14px;\">Receive 20% off on 1st Purchase - SIGN UP NOW<\/span>",
+            "message_link": ""
+          }
+        },
+        "item_J9RhnK": {
+          "type": "item",
+          "settings": {
+            "message": "Guaranteed Authenticity - Learn More",
+            "message_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_Un7gmA",
+        "item_J9RhnK"
+      ],
+      "settings": {
+        "container": "container",
+        "color_scheme": "badge-sale",
+        "show_announcement": true,
+        "homepage_only": false,
+        "show_close": true,
+        "show_divider": false,
+        "show_nav": true,
+        "autorotate": true,
+        "autorotate_speed": 3
+      }
+    },
+    "custom_liquid_hWEnk7": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<svg width=\"100%\" height=\"50\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n  <defs>\n    <pattern id=\"wavePattern\" x=\"0\" y=\"0\" width=\"100\" height=\"50\" patternUnits=\"userSpaceOnUse\">\n      <!-- Wave path for stroke, reversed -->\n      <path d=\"M 0 25 Q 25 50, 50 25 Q 75 0, 100 25\" stroke=\"#FF5C36\" stroke-width=\"2\" fill=\"none\"\/>\n      <!-- Mirrored wave path for fill, reversed -->\n      <path d=\"M 0 25 Q 25 50, 50 25 Q 75 0, 100 25 L 100 0 L 0 0 Z\" fill=\"#FF5C36\"\/>\n    <\/pattern>\n  <\/defs>\n\n  <!-- Background rectangle -->\n  <rect width=\"100%\" height=\"50\" fill=\"url(#wavePattern)\" \/>\n<\/svg>",
+        "custom_class": ""
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "5e153016-a9d7-46c9-a10e-30d16446793d": {
+          "type": "topbar",
+          "settings": {
+            "color_scheme": "",
+            "show_divider": true,
+            "show_phone_numb": false,
+            "show_email": false,
+            "show_social_links": false,
+            "show_stores_page": false,
+            "show_currency_switcher": false,
+            "show_country_selector": false,
+            "show_language_switcher": false,
+            "alert_message": "<span>Enable Push Notification |  <a class=\"sf__text-link  ml-1 underline\" href=\"#\">Flash Sales &  More<\/a><span><\/span><\/span>"
+          }
+        },
+        "banner_Ma7qL6": {
+          "type": "banner",
+          "settings": {
+            "heading": "Shop Skincare",
+            "container": "inherit",
+            "banner_style": "outside",
+            "banner_link": "",
+            "banner_title": "New collection",
+            "banner_desc": "",
+            "banner_button_text": "Shop now"
+          }
+        },
+        "product_list_HmhRWp": {
+          "type": "product-list",
+          "settings": {
+            "heading": "Trending",
+            "container": "inherit",
+            "stretch_width": false,
+            "collection": "round-lab",
+            "limit": 6,
+            "columns": 6
+          }
+        },
+        "product_list_kwzKYU": {
+          "type": "product-list",
+          "settings": {
+            "heading": "New",
+            "container": "inherit",
+            "stretch_width": false,
+            "collection": "moisturizers",
+            "limit": 6,
+            "columns": 6
+          }
+        },
+        "banner_MiGg47": {
+          "type": "banner",
+          "settings": {
+            "heading": "Sale & Offers",
+            "container": "inherit",
+            "banner_style": "outside",
+            "banner_image": "shopify:\/\/shop_images\/Screenshot_2.png",
+            "banner_link": "",
+            "banner_title": "New collection",
+            "banner_desc": "",
+            "banner_button_text": "Shop now"
+          }
+        }
+      },
+      "block_order": [
+        "5e153016-a9d7-46c9-a10e-30d16446793d",
+        "banner_Ma7qL6",
+        "product_list_HmhRWp",
+        "product_list_kwzKYU",
+        "banner_MiGg47"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "color_scheme_menu": "",
+        "header_design": "logo-left-menu-center",
+        "container": "container-fluid",
+        "header_sticky": true,
+        "transparent_on_top": false,
+        "logo_text": "MINIMOG",
+        "logo": "shopify:\/\/shop_images\/lgoo2.png",
+        "logo_svg": "",
+        "logo_mobile_svg": "",
+        "logo_transparent_svg": "",
+        "logo_max_width": 230,
+        "sticky_logo_max_width": 145,
+        "mobile_logo_max_width": 110,
+        "main_menu": "main-menu",
+        "secondary_menu": "",
+        "mobile_menu": "",
+        "uppercase_parent_level": true,
+        "show_menu_column_divider": true,
+        "search": "show_full",
+        "show_account_icon": true,
+        "show_cart_icon": true,
+        "show_wishlist_icon": true,
+        "show_compare_icon": false,
+        "show_currency_switcher": false,
+        "show_country_selector": false,
+        "show_language_switcher": false,
+        "mb_show_currency_switcher": false,
+        "mb_show_country_selector": false,
+        "mb_show_language_switcher": false
+      }
+    }
+  },
+  "order": [
+    "annoucement",
+    "custom_liquid_hWEnk7",
+    "header"
+  ]
+}
