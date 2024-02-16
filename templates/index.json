@@ -96,7 +96,7 @@
         "speed": 30,
         "item_gap": 50,
         "item_gap_mobile": 30,
-        "color_scheme": "badge-sale",
+        "color_scheme": "footer",
         "padding_top": 0,
         "padding_bottom": 0,
         "custom_class": ""
