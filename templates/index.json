@@ -58,28 +58,32 @@
         "image_hy6nzw": {
           "type": "image",
           "settings": {
-            "image_height": 120,
+            "image": "shopify:\/\/shop_images\/goodal-removebg-preview.png",
+            "image_height": 40,
             "image_link": ""
           }
         },
         "image_dYNdj3": {
           "type": "image",
           "settings": {
-            "image_height": 120,
+            "image": "shopify:\/\/shop_images\/purito-removebg-preview.png",
+            "image_height": 40,
             "image_link": ""
           }
         },
         "image_jMXzbj": {
           "type": "image",
           "settings": {
-            "image_height": 120,
+            "image": "shopify:\/\/shop_images\/roundlab-removebg-preview.png",
+            "image_height": 40,
             "image_link": ""
           }
         },
         "image_zqKqEr": {
           "type": "image",
           "settings": {
-            "image_height": 120,
+            "image": "shopify:\/\/shop_images\/anua-removebg-preview.png",
+            "image_height": 40,
             "image_link": ""
           }
         }
@@ -97,8 +101,8 @@
         "item_gap": 50,
         "item_gap_mobile": 30,
         "color_scheme": "footer",
-        "padding_top": 0,
-        "padding_bottom": 0,
+        "padding_top": 20,
+        "padding_bottom": 20,
         "custom_class": ""
       }
     },
