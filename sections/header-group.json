@@ -48,6 +48,7 @@
       "blocks": {
         "5e153016-a9d7-46c9-a10e-30d16446793d": {
           "type": "topbar",
+          "disabled": true,
           "settings": {
             "color_scheme": "",
             "show_divider": true,
