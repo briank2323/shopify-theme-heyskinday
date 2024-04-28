@@ -80,7 +80,7 @@
             "heading": "Trending",
             "container": "inherit",
             "stretch_width": false,
-            "collection": "brands-round-lab",
+            "collection": "round-lab",
             "limit": 6,
             "columns": 6
           }
